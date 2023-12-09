@@ -1,14 +1,10 @@
-Hi 👋
-My name is Ryan and I'm on a quest to become a code guru.
-
-Though I am still a meer fledgling, I have set my sights on becoming a grand master and I will not rest until I am.
-
-
 # Hey there! 👋
-🌟 About Me: I'm an application architect, software engineer, and designer passionate about crafting diverse software solutions.
 
-👨‍💻 Technologist at Heart: I thrive on exploring various technologies; the more, the merrier!
+## 🙋‍♂️ Architect of Applications, Engineer of Software, and Designer of Dreams: I love creating magic for the web and bringing ideas to life.
 
-🏄‍♂️ Off-duty Pursuits: When not immersed in code, you might find me catching waves or strumming tunes on my guitar.
+## 🌌 A technologist at Heart: I thoroughly enjoy exploring all technologies from robotics to energy systems and all the software in between.
 
-🧙‍♂️ Web Wizard: Known for weaving digital solutions, I embrace the art of web mastery with a touch of charm.
+## 🏄 Passtime Passions: Aside from practicing the art of code, you may find me spending my time catching waves or strumming tunes on my guitar.
+
+## 🧙‍♂️ Web Wizardry: I like to to think of software as a form of magic, and like all ancient arts mastery is the journey, not the destination.
+ 
